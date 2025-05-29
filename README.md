@@ -52,3 +52,5 @@ Created a dynamic, scalable SQL framework for multi-model attribution.
 Delivered an interactive Power BI dashboard ready for stakeholder use.
 
 Equipped decision-makers with model-specific insights for smarter channel investments.
+
+🔗 Explore the full analysis in the SQL and Power BI files! 🚀
