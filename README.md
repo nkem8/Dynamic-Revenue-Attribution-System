@@ -1,4 +1,4 @@
- #Revenue Attribution Modeling Project
+ 📊Revenue Attribution Modeling Project
 Objective:
 To design and implement a robust, SQL-based revenue attribution system that enables multi-model channel performance analysis and dynamic reporting in Power BI.
 
